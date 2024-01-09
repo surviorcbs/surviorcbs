@@ -1,0 +1,37 @@
+/* Style sheet created by: Ellie Babcock 10/31/23 */
+
+/* Style for body specifies a background color */
+body {
+	background-color: #E0FFC4;
+}
+
+nav ul {
+	padding: 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+nav li{
+	background-color: #009933;
+	border-radius: 2em;
+	list-style-type: none;
+	margin: 0.3em;
+	padding: 0.4em;
+}
+nav li a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+nav {
+	font-family: Georgia, "Times New Roman" , serif;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-align: center;
+}
+header {
+	margin-top: 0.2em;
+	background-color: #FFFFFF;
+	border-radius: 0.5em;
+	text-align: center;
+	margin-top: -1.5em;
+}
